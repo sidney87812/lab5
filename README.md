@@ -1,0 +1,1 @@
+makefile會compile main.cpp跟hugeint.h成執行檔main
